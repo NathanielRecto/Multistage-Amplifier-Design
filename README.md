@@ -1,5 +1,5 @@
 # Multistage BJT Amplifier Design
-## This project involved designing and analyzing a multistage BJT (Bipolar Junction Transistor) amplifier. The design aimed to meet specific requirements, with analysis and testing carried out using Multisim. Hand calculations for the design are included and a 3-stage (CE-CC-CE) amplifier circuit was used. 
+This project involved designing and analyzing a multistage BJT (Bipolar Junction Transistor) amplifier. The design aimed to meet specific requirements, with analysis and testing carried out using Multisim. Hand calculations for the design are included and a 3-stage (CE-CC-CE) amplifier circuit was used. 
 ## Objectives: 
 The primary goal was to design a BJT amplifier that meets the following specifications:
 - **Power Supply:** +10V relative to ground.
