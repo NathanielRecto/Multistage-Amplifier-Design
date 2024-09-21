@@ -35,11 +35,11 @@ The design used Multisim for simulation and DC sweep analysis to generate charac
 ## Circuit Testing:
 The amplifier circuit was simulated and tested in Multisim. These measurements include:
 1. **Voltage Gain:**
-  - **No-load gain:** 49.21 V/V
-  - **Loaded gain:** 44.31 V/V with RL = 1kΩ
+    - **No-load gain:** 49.21 V/V
+    - **Loaded gain:** 44.31 V/V with RL = 1kΩ
 2. **Output Voltage Swing:**
-  - **No-load:** 4.81 V peak-to-peak
-  - **Loaded:** 4.32 V peak-to-peak
+    - **No-load:** 4.81 V peak-to-peak
+    - **Loaded:** 4.32 V peak-to-peak
 3. **Input Resistance:** Calculated at 32.25 kΩ
 4. **Frequency Response:** Measured to meet the 20 Hz to 50 KHz bandwidth requirement
 ## Experimental Results:
