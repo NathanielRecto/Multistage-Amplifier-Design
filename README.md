@@ -30,7 +30,7 @@ The design used Multisim for simulation and DC sweep analysis to generate charac
 - **Capacitors:** C1 = 10 μF, C2 = 100 μF, etc.
 - **Coupling Capacitors:** Selected based on the input resistance and frequency response requirements.
 - **Power Supply:** +10V DC.
-## Multisim schematic circuit
+## Multisim Schematic Circuit
 ![circuit](https://github.com/user-attachments/assets/e3c7bb1b-de0b-4ccd-8217-3db64fbf2322)
 ## Circuit Testing:
 The amplifier circuit was simulated and tested in Multisim. These measurements include:
