@@ -43,7 +43,8 @@ The amplifier circuit was simulated and tested in Multisim. These measurements i
 3. **Input Resistance:** Calculated at 32.25 kΩ
 4. **Frequency Response:** Measured to meet the 20 Hz to 50 KHz bandwidth requirement
 ## Experimental Results:
-The final circuit was tested under different loading conditions, and the results were compared to the design specifications. Key results:
+The final circuit was tested under different loading conditions, and the results were compared to the design specifications. 
+Key results:
 - **Quiescent Current:** 5.12 mA (well within the 10 mA limit).
 - **No-load Gain:** 49.21 V/V (within 10% of the 50 V/V requirement).
 - **Maximum Output Voltage Swing:** Below the required 8 V peak-to-peak, but all other key specifications were met with minimal error percentages.
